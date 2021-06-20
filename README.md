@@ -28,3 +28,19 @@ Inspiration- https://www.cs.usfca.edu/~galles/visualization/BTree.htm
 
 ![2](https://user-images.githubusercontent.com/34760210/119181793-b71aab00-ba8f-11eb-9ab5-dad04c92eb7b.JPG)
 
+## B-Tree of order 4
+
+![3](https://user-images.githubusercontent.com/34760210/122691771-3fd36500-d24f-11eb-9b28-e1e44a3c2618.JPG)
+
+## B-Tree of order 7
+
+![5](https://user-images.githubusercontent.com/34760210/122691826-77daa800-d24f-11eb-8ef4-12486080c367.JPG)
+
+## Searching node - animation speed: Medium
+
+![4](https://user-images.githubusercontent.com/34760210/122691815-642f4180-d24f-11eb-8532-3bdbccbdfdfd.JPG)
+
+
+## B-Tree Deleting node
+
+![2](https://user-images.githubusercontent.com/34760210/119181793-b71aab00-ba8f-11eb-9ab5-dad04c92eb7b.JPG)
