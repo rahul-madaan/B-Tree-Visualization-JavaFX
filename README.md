@@ -48,4 +48,5 @@ Inspiration- https://www.cs.usfca.edu/~galles/visualization/BTree.htm
 ## UML Diagram of the project
 
 ![1](https://user-images.githubusercontent.com/34760210/125695509-85811454-7d83-4268-9c28-70633a0ca619.png)
-![2](https://user-images.githubusercontent.com/34760210/125695515-80102fc4-c31f-43a1-a1b8-5b10d7a141ea.png)
+![2](https://user-images.githubusercontent.com/34760210/125695714-ddf0cb91-9281-41f0-9f8b-d3174bbfae82.png)
+
