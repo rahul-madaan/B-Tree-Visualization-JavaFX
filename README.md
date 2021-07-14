@@ -44,3 +44,8 @@ Inspiration- https://www.cs.usfca.edu/~galles/visualization/BTree.htm
 ## B-Tree Deleting node
 
 ![2](https://user-images.githubusercontent.com/34760210/119181793-b71aab00-ba8f-11eb-9ab5-dad04c92eb7b.JPG)
+
+## UML Diagram of the project
+
+![1](https://user-images.githubusercontent.com/34760210/125695509-85811454-7d83-4268-9c28-70633a0ca619.png)
+![2](https://user-images.githubusercontent.com/34760210/125695515-80102fc4-c31f-43a1-a1b8-5b10d7a141ea.png)
