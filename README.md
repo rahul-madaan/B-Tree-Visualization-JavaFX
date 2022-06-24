@@ -24,7 +24,6 @@ Inspiration- https://www.cs.usfca.edu/~galles/visualization/BTree.htm
 ![1](https://user-images.githubusercontent.com/34760210/119181591-6b680180-ba8f-11eb-9738-011603f919d6.JPG)
 
 ## B-Tree of order 3
-
 ![2](https://user-images.githubusercontent.com/34760210/119181793-b71aab00-ba8f-11eb-9ab5-dad04c92eb7b.JPG)
 
 ## B-Tree of order 4
