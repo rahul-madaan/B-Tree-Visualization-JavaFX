@@ -7,6 +7,7 @@ Made as a part of CSD Course Principles of Programming Languages at Shiv Nadar U
 Inspiration- https://www.cs.usfca.edu/~galles/visualization/BTree.htm
 
 # Features
+
 1. B-Trees of order ranging from 3 to 7 can be visualized.
 2. Height of tree and total number of nodes is displayed on right panel of the GUI window.
 3. Elements can be inserted deleted and searched for.
